@@ -17,5 +17,4 @@ Here are some ideas to get you started:
 -[Instagram: Rutwik](https://www.instagram.com/karanderutwik/)
 - 😄 Pronouns: HE/HIS
 - ⚡ Fun fact: I like trekking and watching movies.
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rutwik-28](https://github.com/Rutwik-28/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rutwik-28)](https://github.com/anuraghazra/github-readme-stats)
